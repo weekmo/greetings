@@ -1,5 +1,6 @@
 package greetings
 
+// to be able to commit
 import (
 	"errors"
 	"fmt"

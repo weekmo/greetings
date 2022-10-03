@@ -1,3 +1,3 @@
-module github.com/weekmo/go-mod
+module github.com/weekmo/greetings
 
 go 1.19
